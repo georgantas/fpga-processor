@@ -26,7 +26,7 @@ There are 20 compatible instructions:
     - Branch not equal
 - Jump instructions:
     - Unconditional jump instruction
-    - Unconditional jump instruction from file
+    - Unconditional jump instruction from address in the register file
 
 # Synthesized Components
 
